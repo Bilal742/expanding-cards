@@ -6,8 +6,7 @@ When you click on a card, it smoothly expands to reveal the title — giving a s
 ---
 
 ## 🚀 Live Preview
-🔗 [View Live on GitHub Pages](https://bilalusman1291.github.io/expanding-cards)  
-*(Replace with your actual GitHub Pages link once published)*
+🔗 [View Live on GitHub Pages](iexpanding-cards.netlify.app/)  
 
 ---
 
