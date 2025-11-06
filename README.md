@@ -6,7 +6,7 @@ When you click on a card, it smoothly expands to reveal the title — giving a s
 ---
 
 ## 🚀 Live Preview
-🔗 [https://iexpanding-cards.netlify.app/]  
+🔗 [https://iexpanding-card.vercel.app/]  
 
 ---
 
