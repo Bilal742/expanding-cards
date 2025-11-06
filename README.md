@@ -25,3 +25,13 @@ When you click on a card, it smoothly expands to reveal the title — giving a s
 - **JavaScript (ES6)** → Interactive functionality  
 
 ---
+
+## 📬 Contact
+**Muhammad Bilal**  
+📧 bilalusman1291@gmail.com  
+🌐 [https://imuhammadbilal.vercel.app/]
+🐙 [https://github.com/Bilal742)]
+
+---
+
+⭐ **If you like this project, give it a star!**
